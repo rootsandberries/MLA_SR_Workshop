@@ -33,4 +33,4 @@ Please download [this zip file] () and save it to your desktop for quick access 
 
 ### Step 4: Take our pre-workshop survey
 
-Please take [this short survey] (https://goo.gl/forms/9vKKaog45gqHrupE2) in advance of the workshop.  It will help us make adjustments to the curriculum to better suit the audience.
+Please take [this short survey](https://goo.gl/forms/9vKKaog45gqHrupE2) in advance of the workshop.  It will help us make adjustments to the curriculum to better suit the audience.
