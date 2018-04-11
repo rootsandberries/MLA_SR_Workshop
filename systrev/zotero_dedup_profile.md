@@ -7,7 +7,7 @@ Zotero detects duplicates as follows (see [this page](https://www.zotero.org/sup
 > Zotero currently uses the the title, DOI, and ISBN fields to determine duplicates. If these fields match (or are absent), Zotero also compares the years of publication (if they are within a year of each other) and author/creator lists (if at least one author last name plus first initial matches) to determine duplicates.
 
 ### Step 1: Open Zotero Profile Manager
-To create a new profile on a computer that already has a Zotero instance (for example, your own personal Zotero library), open the Zotero profile manager via the command line as follows (see [this page](https://www.zotero.org/support/kb/multiple_profiles) and [this page](https://www.zotero.org/support/debug_output#real-time_debug_output) for more details):
+First, quit any currently running instances of Zotero. To create a new profile on a computer that already has a Zotero instance (for example, your own personal Zotero library), open the Zotero profile manager via the command line as follows (see [this page](https://www.zotero.org/support/kb/multiple_profiles) and [this page](https://www.zotero.org/support/debug_output#real-time_debug_output) for more details):
 
 For Mac:
 * Open Terminal via Spotlight or /Applications/Utilities.
@@ -29,7 +29,7 @@ For Windows:
 
 ![Create new Zotero profile](https://rootsandberries.github.io/systrev/zotero_profile.png)
 
-* Name your new profile and click Done.
+* Name your new profile. Note: Do not use any special characters in your Profile name--letters and numbers only. Click Done.
 * You can uncheck the box next to "Use the selected profile without asking at startup". This will allow you to choose which profile you want to open when you launch the Zotero desktop application. 
 * With the new profile highlighted, click Start Zotero. You may be prompted to install the Word plugin or create and online account, but neither of these are necessary if you're only using this profile to deduplicate searches. 
 
