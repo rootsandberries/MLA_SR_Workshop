@@ -1,6 +1,6 @@
 # Performing systematic reviews in resource-limited settings
 
-### Welcome to our workshop page! Please complete the following steps prior to the workshop. If you have questions or problems, email [Sarah Young](mailto: sarahy@andrew.cmu.edu) or [Erin Eldermire](mailto: erb29@cornell.edu). 
+### Welcome to our workshop page! Please complete the following steps **by no later than May 16**. If you have questions or problems, email [Sarah Young](mailto: sarahy@andrew.cmu.edu) or [Erin Eldermire](mailto: erb29@cornell.edu). 
 
 ---
 
