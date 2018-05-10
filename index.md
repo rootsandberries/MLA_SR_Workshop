@@ -16,7 +16,7 @@
 
 ### Step 2: Set up a Rayyan account
 
-[Rayyan](https://rayyan.qcri.org/) is an online application for screening studies for a systematic review. We'll be importing our deduplicated searches into Rayyan and practicing the independent screening process.
+[Rayyan](https://rayyan.qcri.org/) is an online application for screening studies for a systematic review. We'll be importing our deduplicated searches into Rayyan and practicing the independent screening process.  It's important to do this a couple days before the workshop as the registration process can sometimes be delayed.
 
 1. Go to the [Rayyan website](https://rayyan.qcri.org/). 
 2. Click the blue Sign Up button.
@@ -27,7 +27,7 @@
 
 ### Step 3: Download workshop files
 
-Please download [this zip file] () and save it to your desktop for quick access during the workshop. This includes database export files for practice with Zotero and Rayyan and worksheets for in-class exercises.
+If you haven't already downloaded the files from the MLA website, you can download [this zip file] (https://github.com/rootsandberries/MLA_SR_Workshop/blob/master/systrev/MLA2018_SR_Workshop_files.zip?raw=true) and save it to your desktop for quick access during the workshop. This includes database export files for practice with Zotero and Rayyan and worksheets for in-class exercises.  This file does not include the PowerPoint, which is only available on the MLA website.
 
 ---
 
