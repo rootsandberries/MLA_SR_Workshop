@@ -27,7 +27,7 @@
 
 ### Step 3: Download workshop files
 
-If you haven't already downloaded the files from the MLA website, you can download [this zip file] (https://github.com/rootsandberries/MLA_SR_Workshop/blob/master/systrev/MLA2018_SR_Workshop_files.zip?raw=true) and save it to your desktop for quick access during the workshop. This includes database export files for practice with Zotero and Rayyan and worksheets for in-class exercises.  This file does not include the PowerPoint, which is only available on the MLA website.
+If you haven't already downloaded the files from the MLA website, you can download [this zip file](https://github.com/rootsandberries/MLA_SR_Workshop/blob/master/systrev/MLA2018_SR_Workshop_files.zip?raw=true) and save it to your desktop for quick access during the workshop. This includes database export files for practice with Zotero and Rayyan and worksheets for in-class exercises.  This file does not include the PowerPoint, which is only available on the MLA website.
 
 ---
 
